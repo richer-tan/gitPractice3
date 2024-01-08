@@ -1,2 +1,2 @@
 # gitPractice3
-# Our third git practice.
+# Out third git practice.
