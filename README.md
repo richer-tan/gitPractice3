@@ -1,2 +1,2 @@
 # gitPractice3
-# Changing on feature branch.
+# Our third git practice.
